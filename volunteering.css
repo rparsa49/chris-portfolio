@@ -3,6 +3,7 @@ body{
     background-color: #333;
     color: white;
 }
+
 header{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -29,34 +30,6 @@ header{
     background-color: #04aa6d;
     color: white;
 }
-
-.intro{
-    text-align: center;
-}
-
-.intro img{
-    object-fit: cover;
-    width: 260px;
-    height: 260px;
-    border-radius: 50%;
-    filter: drop-shadow(0 0 0.75rem grey);
-}
-
-.ese224 img{
-    object-fit: cover;
-    width: auto;
-    height: 600px;
-}
-
-a{
-    color:white
-}
-
-.ese555 img{
-    object-fit: cover;
-    width: auto;
-    height: 600px;
-}
 h1{
     color: #04aa6d;
     overflow: hidden;
@@ -76,4 +49,7 @@ h1{
 }
 h2{
     color: #04aa6d;
+}
+.intro{
+    text-align: center;
 }
