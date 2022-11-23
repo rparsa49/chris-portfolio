@@ -42,6 +42,18 @@ header{
     filter: drop-shadow(0 0 0.75rem grey);
 }
 
-.ese555{
-    text-align: left;
+.ese224 img{
+    object-fit: cover;
+    width: auto;
+    height: 600px;
+}
+
+a{
+    color:white
+}
+
+.ese555 img{
+    object-fit: cover;
+    width: auto;
+    height: 600px;
 }
